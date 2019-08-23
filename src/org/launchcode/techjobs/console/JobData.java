@@ -120,7 +120,7 @@ public class JobData {
 
             allJobs = new ArrayList<>();
 
-            // Put the records into a more friendly format
+            // Put the records into a more  friendly format
             for (CSVRecord record : records) {
                 HashMap<String, String> newJob = new HashMap<>();
 
